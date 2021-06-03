@@ -6,19 +6,7 @@
 
 ### Experience
 
-#### Principle Network and Security Architect, ForwardingPlane, LLC 1998 - Present
-
-- Provide consultation, design, and strategic input for data center and
-service provider networks.
-
-- Specialties include FTTx, Metro networks, community fiber projects, BGP,
-DNS, security, network analytics including flow data, IDS, capacity
-planning, IPv6 planning and integration.
-
-- Freelance technical writing and speculation / insight on security and
-networking industry.
-
-#### Network Engineer, Planning and Architecture Group, Energy Sciences Network (ESnet) 2013 - Present
+#### Network Engineer, Planning and Architecture Group, Energy Sciences Network (ESnet) - 2013 - Present
 
 - Member of a distributed team responsible for all aspects of an
 international high performance network connecting all US Department of
@@ -43,7 +31,19 @@ open perimeter security architectures.
 
 - Mentor students and junior engineers.
 
-#### Lead Network Engineer, University of Illinois, ICCN, UC2B, PeoriaNEXT 2008 - 2013
+#### Principle Network and Security Architect, ForwardingPlane, LLC - 1998 - Present
+
+- Provide consultation, design, and strategic input for data center and
+service provider networks.
+
+- Specialties include FTTx, Metro networks, community fiber projects, BGP,
+DNS, security, network analytics including flow data, IDS, capacity
+planning, IPv6 planning and integration.
+
+- Freelance technical writing and speculation / insight on security and
+networking industry.
+
+#### Lead Network Engineer, University of Illinois, ICCN, UC2B, PeoriaNEXT - 2008 - 2013
 
 - Team lead and architect for regional optical network connecting all
 University of Illinois campuses, NCSA, and administrative networks to
@@ -67,7 +67,7 @@ engineers.
 
 - Guest lecturer for CS security and IT networking and security courses.
 
-#### SCinet 2003, 2005-2006, 2009, 2011-2012, 2014-2016, 2018-2019
+#### SCinet - 2003, 2005-2006, 2009, 2011-2012, 2014-2016, 2018-2019
 
 - Participation in SCinet working group in various roles including
 wireless, routing, network security, SDN, and UNIX services.
@@ -84,7 +84,7 @@ network](https://noviflow.com/sc18/) (2018)
 
 - Group Lead for Experimental Networks Group (2019)
 
-#### Network Engineer, National Center for Supercomputing Applications 2002 - 2008, 2012 - 2013
+#### Network Engineer, National Center for Supercomputing Applications - 2002 - 2008, 2012 - 2013
 
 - Member of a small team responsible for all Layer1 -- Layer3 services.
 
@@ -100,7 +100,7 @@ NetFlow collectors.
 
 - Design and maintain network monitoring infrastructure.
 
-#### Senior Network Engineer, IT Architect, Sol Tec Internet services 2000 - 2002
+#### Senior Network Engineer, IT Architect, Sol Tec Internet services - 2000 - 2002
 
 - Managed all technical teams consisting of full and part time employees
 including system engineers, network engineers, and help desk
@@ -118,7 +118,7 @@ throughout greater central Illinois and southern Chicago areas.
 
 - Managed all vendor relationships.
 
-#### Network Analyst, Country Financial 2000-2000
+#### Network Analyst, Country Financial - 2000-2000
 
 - Tested and evaluated new technologies such as intrusion detection
 systems, content filtering engines, filtering platforms.
