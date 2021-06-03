@@ -1,4 +1,4 @@
-**Nick Buraglio -**
+# Nick Buraglio
 ***809 Indigo Dr -***
 ***Savoy, IL 61874 -***
 ***Ph: 217.841.7026 -***
@@ -8,132 +8,131 @@
 
 #### Principle Network and Security Architect, ForwardingPlane, LLC 1998 - Present
 
-Provide consultation, design, and strategic input for data center and
+- Provide consultation, design, and strategic input for data center and
 service provider networks.
 
-Specialties include FTTx, Metro networks, community fiber projects, BGP,
+- Specialties include FTTx, Metro networks, community fiber projects, BGP,
 DNS, security, network analytics including flow data, IDS, capacity
 planning, IPv6 planning and integration.
 
-Freelance technical writing and speculation / insight on security and
+- Freelance technical writing and speculation / insight on security and
 networking industry.
 
-Network Engineer, Planning and Architecture Group, Energy Sciences
-Network (ESnet) 2013 - Present
+#### Network Engineer, Planning and Architecture Group, Energy Sciences Network (ESnet) 2013 - Present
 
-Member of a distributed team responsible for all aspects of an
+- Member of a distributed team responsible for all aspects of an
 international high performance network connecting all US Department of
 Energy sites and other research and education networks.
 
-Member of the planning and architecture team responsible for strategy
+- Member of the planning and architecture team responsible for strategy
 and architecture.
 
-Provide prototyping, support, assessment, and expertise for disruptive
+- Provide prototyping, support, assessment, and expertise for disruptive
 technologies.
 
-Act as security strategist for internal and externally facing networking
+- Act as security strategist for internal and externally facing networking
 and services.
 
-Guide framework and policy on change management process.
+- Guide framework and policy on change management process.
 
-Present to community as subject matter expert on various topics
+- Present to community as subject matter expert on various topics
 including but not limited to IPv6, SDN/SDX, performance analytics, and
 open perimeter security architectures.
 
-Manage vendor relationships.
+- Manage vendor relationships.
 
-Mentor students and junior engineers.
+- Mentor students and junior engineers.
 
 #### Lead Network Engineer, University of Illinois, ICCN, UC2B, PeoriaNEXT 2008 - 2013
 
-Team lead and architect for regional optical network connecting all
+- Team lead and architect for regional optical network connecting all
 University of Illinois campuses, NCSA, and administrative networks to
 each other and external resources.
 
-Backup optical engineer for the InterCampus Communication Network (ICCN)
+- Backup optical engineer for the InterCampus Communication Network (ICCN)
 
-Team lead and architect for campus research networking initiatives
+- Team lead and architect for campus research networking initiatives
 including Science DMZ architecture and deployment.
 
-Primary engineer, architect and representative for PeoriaNEXT, a
+- Primary engineer, architect and representative for PeoriaNEXT, a
 layer2/3 hub site for Peoria, IL campuses as well as multiple medical
 facilities and private industry.
 
-Networking team lead and primary network architect for UC2B, a BTOP
+- Networking team lead and primary network architect for UC2B, a BTOP
 funded fiber to the premises ISP and NATOA broadband project of the year
 awardee.
 
-Mentor, provide direction and technical expertise to junior network
+- Provide direction, technical expertise and mentorship to junior network
 engineers.
 
-Guest lecturer for CS security and IT networking and security courses.
+- Guest lecturer for CS security and IT networking and security courses.
 
 #### SCinet 2003, 2005-2006, 2009, 2011-2012, 2014-2016, 2018-2019
 
-Participation in SCinet working group in various roles including
+- Participation in SCinet working group in various roles including
 wireless, routing, network security, SDN, and UNIX services.
 
-Team lead for SC15 SDN team.
+- Team lead for SC15 SDN team.
 
-Create, deploy, maintain SDN architecture for SC15 network.
+- Create, deploy, maintain SDN architecture for SC15 network.
 
-Architect and coordinate 100G SDN QoS scheduling production testbed for
+- Architect and coordinate 100G SDN QoS scheduling production testbed for
 SC16 network.
 
-Team Lead for [production heterogenous SDN
+- Team Lead for [production heterogenous SDN
 network](https://noviflow.com/sc18/) (2018)
 
-Group Lead for Experimental Networks Group (2019)
+- Group Lead for Experimental Networks Group (2019)
 
 #### Network Engineer, National Center for Supercomputing Applications 2002 - 2008, 2012 - 2013
 
-Member of a small team responsible for all Layer1 -- Layer3 services.
+- Member of a small team responsible for all Layer1 -- Layer3 services.
 
-Worked as network engineering liaison and advisor to incident responders
+- Worked as network engineering liaison and advisor to incident responders
 and network security team, including management of high capacity Bro IDS
 systems.
 
-Collaborated with FBI on NCDIR project to assist and train field agents
+- Collaborated with FBI on NCDIR project to assist and train field agents
 in network security and black hat techniques.
 
-Managed network based UNIX services including DNS, DHCP, RADIUS and
+- Managed network based UNIX services including DNS, DHCP, RADIUS and
 NetFlow collectors.
 
-Design and maintain network monitoring infrastructure.
+- Design and maintain network monitoring infrastructure.
 
 #### Senior Network Engineer, IT Architect, Sol Tec Internet services 2000 - 2002
 
-Managed all technical teams consisting of full and part time employees
+- Managed all technical teams consisting of full and part time employees
 including system engineers, network engineers, and help desk
 professionals.
 
-Provided technical leadership and strategy to fast growing regional
+- Provided technical leadership and strategy to fast growing regional
 internet service and early broadband provider.
 
-Authored and executed a detailed architecture expansion plan that
+- Authored and executed a detailed architecture expansion plan that
 included tripling capacity and relocation of all transit,
 infrastructure, UNIX, and colocation services.
 
-Designed, deployed, and supported extensive broadband services
+- Designed, deployed, and supported extensive broadband services
 throughout greater central Illinois and southern Chicago areas.
 
-Managed all vendor relationships.
+- Managed all vendor relationships.
 
 #### Network Analyst, Country Financial 2000-2000
 
-Tested and evaluated new technologies such as intrusion detection
+- Tested and evaluated new technologies such as intrusion detection
 systems, content filtering engines, filtering platforms.
 
-Evaluated, installed, and maintained remote access services including
+- Evaluated, installed, and maintained remote access services including
 dial-up and VPN.
 
-Jointly maintained firewall, web caching, and network access control
+- Jointly maintained firewall, web caching, and network access control
 appliances.
 
-Provided overlay support to UNIX, security, windows, and networking
+- Provided overlay support to UNIX, security, windows, and networking
 teams.
 
-Additional work history available upon request
+- Additional work history available upon request
 
 ## Education, Certifications, Awards
 
@@ -179,8 +178,6 @@ Additional work history available upon request
     Collective
     Podcast](https://thenetworkcollective.com/?s=buraglio)
 
--   Experienced international collaborator
-
 -   RouteViews Project Member of the Board of Advisors
 
 -   NSF Panel Reviewer 2013 - As needed
@@ -199,8 +196,11 @@ Additional work history available upon request
     on the ExoGENI
     testbed](https://ieeexplore.ieee.org/abstract/document/8407026)
 
-    Experienced public speaker and technical presenter.
+-    Experienced public speaker and technical presenter.
 
-    Consulting Information Technology Architect; Advisory Board Member
-    New Mexico Internet Exchange (NMIX)
--   [Additional contributions](https://scholar.google.com/scholar?scilib=1&scioq=buraglio&hl=en&as_sdt=0,14)
+-    Experienced international collaborator
+
+-   Consulting Information Technology Architect; Advisory Board Member
+    [Albuquerque Internet Exchange](https://www.abqix.net) (ABQIX)
+
+-  [Additional contributions](https://scholar.google.com/scholar?scilib=1&scioq=buraglio&hl=en&as_sdt=0,14)
