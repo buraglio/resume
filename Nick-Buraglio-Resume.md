@@ -139,7 +139,10 @@ teams.
 -   Illinois State University 1999 B.S. fine arts in technology,
     photography sequence. Minor in film studies
 
--  CCNA, CCDA (2000), BCNE (2010), JNCIA (2011), ITILv3 Foundation, HE
+-   Department of Energy IPv6-only IPT Implementation lead for [OMB M-21-07](https://www.whitehouse.gov/wp-content/uploads/2020/11/M-21-07.pdf)
+
+
+-   CCNA, CCDA (2000), BCNE (2010), JNCIA (2011), ITILv3 Foundation, HE
     IPv6 Sage Level
 
 -   Recipient of Letter of Commendation from U.S. Department of Energy
