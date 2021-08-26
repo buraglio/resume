@@ -201,7 +201,9 @@ teams.
 
 -    Experienced international collaborator
 
+-    Founder, CTO of [ZTVI.org](https://www.ztvi.org/about/), a 100% overlay international backbone for IPv6 experimentation and education. 
+
 -   Consulting Information Technology Architect; Advisory Board Member
     [Albuquerque Internet Exchange](https://www.abqix.net) (ABQIX)
 
--  [Additional contributions](https://scholar.google.com/scholar?scilib=1&scioq=buraglio&hl=en&as_sdt=0,14)
+-  [Additional Publications](https://scholar.google.com/scholar?scilib=1&scioq=buraglio&hl=en&as_sdt=0,14)
