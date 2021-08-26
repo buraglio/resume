@@ -31,6 +31,10 @@ open perimeter security architectures.
 
 - Mentor students and junior engineers.
 
+- Lead teams of engineers with diverse disciplines in order to accomplish large, high visibility projects.
+
+- Agency level Department of Energy IPv6-only IPT Implementation team lead for [OMB M-21-07](https://www.whitehouse.gov/wp-content/uploads/2020/11/M-21-07.pdf)
+
 #### Principle Network and Security Architect, ForwardingPlane, LLC - 1998 - Present
 
 - Provide consultation, design, and strategic input for data center and
@@ -134,13 +138,10 @@ teams.
 
 - Additional work history available upon request
 
-## Education, Certifications, Awards
+## Education, Certifications, Awards, Contributions
 
 -   Illinois State University 1999 B.S. fine arts in technology,
     photography sequence. Minor in film studies
-
--   Department of Energy IPv6-only IPT Implementation lead for [OMB M-21-07](https://www.whitehouse.gov/wp-content/uploads/2020/11/M-21-07.pdf)
-
 
 -   CCNA, CCDA (2000), BCNE (2010), JNCIA (2011), ITILv3 Foundation, HE
     IPv6 Sage Level
@@ -150,10 +151,10 @@ teams.
 
 -   Department of Justice top secret clearance (2008)
 
--    Co-Principal Investigator for NSF CC-NIE grant award
+-   Co-Principal Investigator for NSF CC-NIE grant award
     [#1341025](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1341025&HistoricalAwards=false)
 
--    Co-author, collaborator and sub-awardee for NSF CICI award
+-   Co-author, collaborator and sub-awardee for NSF CICI award
     [1642142](https://nsf.gov/awardsearch/showAward?AWD_ID=1642142)
 
 -   Principal Investigator for ESnet / Berkeley Lab collaboration with
@@ -179,15 +180,18 @@ teams.
     Collective
     Podcast](https://thenetworkcollective.com/?s=buraglio)
 
--   RouteViews Project Member of the Board of Advisors
+-   [RouteViews](http://www.routeviews.org/routeviews/) Project, Member of the Board of Advisors
 
--   NSF Panel Reviewer 2013 - As needed
+-   [NSF](https://www.nsf.gov) Panel Reviewer 2013 - As needed
+
+-   [NTIA](https://www.ntia.doc.gov) Grant reviewer
 
 -   Co-Creator of [modem.show](https://wwww.modem.show) technical
     podcast
 
--   Co-author of IETF Draft
-    [draft-horley-v6ops-expand-doc](https://datatracker.ietf.org/doc/draft-horley-v6ops-expand-doc/)
+-   Co-author of IETF Drafts
+    [Reserving Additional IPv6 Address Prefixes for Use in Documentation](https://datatracker.ietf.org/doc/draft-horley-v6ops-expand-doc/)
+    [Expanding the IPv6 Lab Use Space](https://datatracker.ietf.org/doc/draft-horley-v6ops-lab/)
 
 -   Co-Authored publication [CoreFlow: Enriching Bro security events
     using network traffic monitoring
@@ -201,7 +205,7 @@ teams.
 
 -    Experienced international collaborator
 
--    Founder, CTO of [ZTVI.org](https://www.ztvi.org/about/), a 100% overlay international backbone for IPv6 experimentation and education. 
+-    Founder, CTO of [ZTVI.org](https://www.ztvi.org/about/), a 100% overlay international backbone for IPv6 experimentation and education.
 
 -   Consulting Information Technology Architect; Advisory Board Member
     [Albuquerque Internet Exchange](https://www.abqix.net) (ABQIX)
