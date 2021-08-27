@@ -18,8 +18,7 @@ and architecture.
 - Provide prototyping, support, assessment, and expertise for disruptive
 technologies.
 
-- Act as security strategist for internal and externally facing networking
-and services.
+- Act as security strategist for internal and externally facing services.
 
 - Guide framework and policy on change management process.
 
@@ -33,7 +32,7 @@ open perimeter security architectures.
 
 - Lead teams of engineers with diverse disciplines in order to accomplish large, high visibility projects.
 
-- Agency level Department of Energy IPv6-only IPT Implementation team lead for [OMB M-21-07](https://www.whitehouse.gov/wp-content/uploads/2020/11/M-21-07.pdf)
+- Department of Energy agency level IPv6-only IPT Implementation team lead for [OMB M-21-07](https://www.whitehouse.gov/wp-content/uploads/2020/11/M-21-07.pdf)
 
 #### Principle Network and Security Architect, ForwardingPlane, LLC - 1998 - Present
 
@@ -58,11 +57,11 @@ each other and external resources.
 - Team lead and architect for campus research networking initiatives
 including Science DMZ architecture and deployment.
 
-- Primary engineer, architect and representative for PeoriaNEXT, a
-layer2/3 hub site for Peoria, IL campuses as well as multiple medical
+- Primary engineer, architect, and representative for PeoriaNEXT, a
+layer2/3 internet exchange for Peoria, IL campuses as well as multiple medical
 facilities and private industry.
 
-- Networking team lead and primary network architect for UC2B, a BTOP
+- Team lead and primary network architect for UC2B, a BTOP
 funded fiber to the premises ISP and NATOA broadband project of the year
 awardee.
 
@@ -78,15 +77,15 @@ wireless, routing, network security, SDN, and UNIX services.
 
 - Team lead for SC15 SDN team.
 
-- Create, deploy, maintain SDN architecture for SC15 network.
+- Develop, help deploy and maintain OpenFlow based, production SDN architecture for SC15 network.
 
-- Architect and coordinate 100G SDN QoS scheduling production testbed for
+- Develop and coordinate 100G SDN QoS scheduling production testbed for
 SC16 network.
 
 - Team Lead for [production heterogenous SDN
 network](https://noviflow.com/sc18/) (2018)
 
-- Group Lead for Experimental Networks Group (2019)
+- Group Lead for Experimental Networks Group - XNet (2019)
 
 #### Network Engineer, National Center for Supercomputing Applications - 2002 - 2008, 2012 - 2013
 
