@@ -164,7 +164,7 @@ teams.
 
 -   IPSpace AG Technical advisory board member
 
--   Frequent contributor, co-host and subject matter expert for [various](https://thenetworkcollective.com/?s=buraglio) [networking](https://www.ipspace.net/Podcast/Software_Gone_Wild/About) [podcasts](http://packetpushers.net/podcast/)
+-   Frequent contributor, co-host, and subject matter expert for [various](https://thenetworkcollective.com/?s=buraglio) [networking](https://www.ipspace.net/Podcast/Software_Gone_Wild/About) [podcasts](http://packetpushers.net/podcast/)
 
 -   [RouteViews Project](http://www.routeviews.org/routeviews/), Member of the Board of Advisors
 
@@ -174,7 +174,7 @@ teams.
 
 -   Co-Creator of [modem.show](https://wwww.modem.show) technical podcast
 
--   Co-author of IETF Drafts
+-   Co-author of IETF Drafts:
     
     [Reserving Additional IPv6 Address Prefixes for Use in Documentation](https://datatracker.ietf.org/doc/draft-horley-v6ops-expand-doc/)
     
