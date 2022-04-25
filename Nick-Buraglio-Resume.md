@@ -1,7 +1,7 @@
 # Nick Buraglio
 ***809 Indigo Dr -***
 ***Savoy, IL 61874 -***
-***Ph: 217.841.7026 -***
+***Ph: +1 217.841.7026 -***
 ***[nick@buraglio.com](mailto:nick@buraglio.com)***
 
 ### Experience
@@ -157,8 +157,7 @@ teams.
     [1642142](https://nsf.gov/awardsearch/showAward?AWD_ID=1642142)
 
 -   Principal Investigator for ESnet / Berkeley Lab collaboration with
-    Office of Veterans Affairs project [MVP Champion
-    Project](https://www.energy.gov/articles/doe-and-va-team-improve-healthcare-veterans)
+    Office of Veterans Affairs project [MVP Champion Project](https://www.energy.gov/articles/doe-and-va-team-improve-healthcare-veterans)
 
 -   [Network Field Day 7](http://techfieldday.com/event/nfd7/) ,
     [9](http://techfieldday.com/event/nfd9/),[17](https://techfieldday.com/event/nfd17/) and [segment routing round-table](http://techfieldday.com/event/srr1/)
@@ -167,17 +166,13 @@ teams.
 -   Primary author at
     [http://www.forwardingplane.net/](http://www.forwardingplane.net/)
 
--   Guest and subject matter expert for [Packet Pushers
-    podcast](http://packetpushers.net/podcast/)
+-   Guest and subject matter expert for [Packet Pushers podcast](http://packetpushers.net/podcast/)
 
--   Frequent subject matter expert and co-host on [software gone wild
-    podcast](https://www.ipspace.net/Podcast/Software_Gone_Wild/About)
+-   Frequent subject matter expert and co-host on [software gone wild podcast](https://www.ipspace.net/Podcast/Software_Gone_Wild/About)
 
 -   IPSpace AG Technical advisory board member
 
--   Frequent contributor and subject matter expert for [The Network
-    Collective
-    Podcast](https://thenetworkcollective.com/?s=buraglio)
+-   Frequent contributor and subject matter expert for [The Network Collective Podcast](https://thenetworkcollective.com/?s=buraglio)
 
 -   [RouteViews](http://www.routeviews.org/routeviews/) Project, Member of the Board of Advisors
 
@@ -185,28 +180,30 @@ teams.
 
 -   [NTIA](https://www.ntia.doc.gov) Grant reviewer
 
--   Co-Creator of [modem.show](https://wwww.modem.show) technical
-    podcast
+-   Co-Creator of [modem.show](https://wwww.modem.show) technical podcast
 
 -   Co-author of IETF Drafts
     [Reserving Additional IPv6 Address Prefixes for Use in Documentation](https://datatracker.ietf.org/doc/draft-horley-v6ops-expand-doc/)
     [Expanding the IPv6 Lab Use Space](https://datatracker.ietf.org/doc/draft-horley-v6ops-lab/)
+    [Unintended Operational Issues With ULA](https://datatracker.ietf.org/doc/draft-buraglio-v6ops-ula/)
 
--   Co-Authored publication [CoreFlow: Enriching Bro security events
-    using network traffic monitoring
+-   Co-Authored publication [CoreFlow: Enriching Bro security events using network traffic monitoring
     data](http://delaat.net/pubs/2017-j-2.pdf)
 
+-   Co-Authored ACM Publication [Machine learning-based analysis of COVID-19 pandemic impact on US research networks](https://dl.acm.org/doi/10.1145/3503954.3503958)
+
 -   Co-Authored publication [Toward live inter-domain network services
-    on the ExoGENI
-    testbed](https://ieeexplore.ieee.org/abstract/document/8407026)
+    on the ExoGENI testbed](https://ieeexplore.ieee.org/abstract/document/8407026)
 
--    Experienced public speaker and technical presenter.
-
--    Experienced international collaborator
+-   Received Provisional Patent Application 63/276,148 for "Data driven, machine learning augmented dynamic path optimization" 
 
 -    Founder, CTO of [ZTVI.org](https://www.ztvi.org/about/), a 100% overlay international backbone for IPv6 experimentation and education.
 
 -   Consulting Information Technology Architect; Advisory Board Member
     [Albuquerque Internet Exchange](https://www.abqix.net) (ABQIX)
+
+-   Experienced public speaker and technical presenter.
+
+-   Experienced international collaborator
 
 -  [Additional Publications](https://scholar.google.com/scholar?scilib=1&scioq=buraglio&hl=en&as_sdt=0,14)
