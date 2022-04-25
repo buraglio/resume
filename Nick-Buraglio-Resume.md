@@ -159,9 +159,7 @@ teams.
 -   Principal Investigator for ESnet / Berkeley Lab collaboration with
     Office of Veterans Affairs project [MVP Champion Project](https://www.energy.gov/articles/doe-and-va-team-improve-healthcare-veterans)
 
--   [Network Field Day 7](http://techfieldday.com/event/nfd7/) ,
-    [9](http://techfieldday.com/event/nfd9/),[17](https://techfieldday.com/event/nfd17/) and [segment routing round-table](http://techfieldday.com/event/srr1/)
-    delegate
+-   [Network Field Day 7](http://techfieldday.com/event/nfd7/), [9](http://techfieldday.com/event/nfd9/), [17](https://techfieldday.com/event/nfd17/) and [segment routing round-table](http://techfieldday.com/event/srr1/)delegate
 
 -   Primary author at
     [http://www.forwardingplane.net/](http://www.forwardingplane.net/)
