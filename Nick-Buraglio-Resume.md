@@ -156,23 +156,17 @@ teams.
 -   Co-author, collaborator and sub-awardee for NSF CICI award
     [1642142](https://nsf.gov/awardsearch/showAward?AWD_ID=1642142)
 
--   Principal Investigator for ESnet / Berkeley Lab collaboration with
+-   Principal Investigator (PI) for ESnet / Berkeley Lab collaboration with
     Office of Veterans Affairs project [MVP Champion Project](https://www.energy.gov/articles/doe-and-va-team-improve-healthcare-veterans)
-
--   [Network Field Day 7](http://techfieldday.com/event/nfd7/), [9](http://techfieldday.com/event/nfd9/), [17](https://techfieldday.com/event/nfd17/) and [segment routing round-table](http://techfieldday.com/event/srr1/) delegate
 
 -   Primary author at
     [http://www.forwardingplane.net/](http://www.forwardingplane.net/)
 
--   Guest and subject matter expert for [Packet Pushers podcast](http://packetpushers.net/podcast/)
-
--   Frequent subject matter expert and co-host on [software gone wild podcast](https://www.ipspace.net/Podcast/Software_Gone_Wild/About)
-
 -   IPSpace AG Technical advisory board member
 
--   Frequent contributor and subject matter expert for [The Network Collective Podcast](https://thenetworkcollective.com/?s=buraglio)
+-   Frequent contributor, co-host and subject matter expert for [various](https://thenetworkcollective.com/?s=buraglio) [networking](https://www.ipspace.net/Podcast/Software_Gone_Wild/About) [podcasts](http://packetpushers.net/podcast/)
 
--   [RouteViews](http://www.routeviews.org/routeviews/) Project, Member of the Board of Advisors
+-   [RouteViews Project](http://www.routeviews.org/routeviews/), Member of the Board of Advisors
 
 -   [NSF](https://www.nsf.gov) Panel Reviewer 2013 - As needed
 
@@ -181,8 +175,11 @@ teams.
 -   Co-Creator of [modem.show](https://wwww.modem.show) technical podcast
 
 -   Co-author of IETF Drafts
+    
     [Reserving Additional IPv6 Address Prefixes for Use in Documentation](https://datatracker.ietf.org/doc/draft-horley-v6ops-expand-doc/)
+    
     [Expanding the IPv6 Lab Use Space](https://datatracker.ietf.org/doc/draft-horley-v6ops-lab/)
+    
     [Unintended Operational Issues With ULA](https://datatracker.ietf.org/doc/draft-buraglio-v6ops-ula/)
 
 -   Co-Authored publication [CoreFlow: Enriching Bro security events using network traffic monitoring
@@ -195,7 +192,7 @@ teams.
 
 -   Received Provisional Patent Application 63/276,148 for "Data driven, machine learning augmented dynamic path optimization" 
 
--    Founder, CTO of [ZTVI.org](https://www.ztvi.org/about/), a 100% overlay international backbone for IPv6 experimentation and education.
+-   Founder, CTO of [ZTVI.org](https://www.ztvi.org/about/), a 100% overlay international backbone for IPv6 experimentation and education.
 
 -   Consulting Information Technology Architect; Advisory Board Member
     [Albuquerque Internet Exchange](https://www.abqix.net) (ABQIX)
