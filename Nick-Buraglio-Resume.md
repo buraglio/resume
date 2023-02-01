@@ -198,7 +198,7 @@ teams.
 
 -   Founder, CTO of [ZTVI.org](https://www.ztvi.org/about/), a 100% overlay international backbone for IPv6 experimentation and education.
 
--   Member of the program committee for [https://tnc23.geant.org](the TNC23 Conference)
+-   Member of the program committee for [https://tnc23.geant.org](TNC23 Conference)
 
 -   Consulting Information Technology Architect; Advisory Board Member
     [Albuquerque Internet Exchange](https://www.abqix.net) (ABQIX)
