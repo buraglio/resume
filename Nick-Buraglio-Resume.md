@@ -168,6 +168,8 @@ teams.
 
 -   [RouteViews Project](http://www.routeviews.org/routeviews/), Member of the Board of Advisors
 
+-   Member of the technical advisory board for the [CAIDA Global Measurement Infrastructure to Improve Internet Security project](https://www.caida.org/projects/gmi3s/)
+
 -   [NSF](https://www.nsf.gov) Panel Reviewer 2013 - As needed
 
 -   [NTIA](https://www.ntia.doc.gov) Grant reviewer
@@ -180,19 +182,23 @@ teams.
     
     [Expanding the IPv6 Lab Use Space](https://datatracker.ietf.org/doc/draft-horley-v6ops-lab/)
     
-    [Unintended Operational Issues With ULA](https://datatracker.ietf.org/doc/draft-buraglio-v6ops-ula/)
+    [Unintended Operational Issues With ULA](https://datatracker.ietf.org/doc/draft-ietf-v6ops-ula/)
 
--   Co-Authored publication [CoreFlow: Enriching Bro security events using network traffic monitoring
-    data](http://delaat.net/pubs/2017-j-2.pdf)
+    [Selectively Applying Host Isolation to Simplify IPv6 First-hop Deployment](https://datatracker.ietf.org/doc/draft-ietf-v6ops-nd-considerations/)
+
+-   Co-Authored publication [CoreFlow: Enriching Bro security events using network traffic monitoring data](http://delaat.net/pubs/2017-j-2.pdf)
 
 -   Co-Authored ACM Publication [Machine learning-based analysis of COVID-19 pandemic impact on US research networks](https://dl.acm.org/doi/10.1145/3503954.3503958)
 
--   Co-Authored publication [Toward live inter-domain network services
-    on the ExoGENI testbed](https://ieeexplore.ieee.org/abstract/document/8407026)
+-   Co-Authored publication [Toward live inter-domain network services on the ExoGENI testbed](https://ieeexplore.ieee.org/abstract/document/8407026)
 
--   Received Provisional Patent Application 63/276,148 for "Data driven, machine learning augmented dynamic path optimization" 
+-   Received Provisional Patent Application 63/276,148 for "Data driven, machine learning augmented dynamic path optimization" (2021) 
+
+-   Filed U.S. patent application serial no. 18/052,614 TITLE: AUTONOMOUS TRAFFIC (SELF-DRIVING) NETWORK WITH TRAFFIC CLASSES AND PASSIVE/ACTIVE LEARNING (Nov-2022)
 
 -   Founder, CTO of [ZTVI.org](https://www.ztvi.org/about/), a 100% overlay international backbone for IPv6 experimentation and education.
+
+-   Member of the program committee for [https://tnc23.geant.org](the TNC23 Conference)
 
 -   Consulting Information Technology Architect; Advisory Board Member
     [Albuquerque Internet Exchange](https://www.abqix.net) (ABQIX)
