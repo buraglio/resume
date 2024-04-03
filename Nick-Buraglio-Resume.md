@@ -6,6 +6,10 @@
 
 ### Experience
 
+#### Co-Chair IETF IPv6 Operations working group 2023 - Present
+
+- Co-chair the operational IPv6 working group for the Internet Engineering Task Force. Solicit input from network operators and users to identify operational issues with IPv6 networks, and determine solutions or workarounds to those issues. Solicit discussion and documentation of the issues and opportunities in IPv6-only operation, and of the resulting innovations. Full Charter can be found [https://datatracker.ietf.org/doc/charter-ietf-v6ops/](here).
+
 #### Network Engineer, Planning and Architecture Group, Energy Sciences Network (ESnet) - 2013 - Present
 
 - Member of a distributed team responsible for all aspects of an
@@ -34,7 +38,7 @@ open perimeter security architectures.
 
 - Department of Energy agency level IPv6-only IPT Implementation team lead for [OMB M-21-07](https://www.whitehouse.gov/wp-content/uploads/2020/11/M-21-07.pdf)
 
-#### Principle Network and Security Architect, ForwardingPlane, LLC - 1998 - Present
+#### Network and Security Architect, CTO, ForwardingPlane, LLC - 1998 - Present
 
 - Provide consultation, design, and strategic input for data center and
 service provider networks.
@@ -176,16 +180,8 @@ teams.
 
 -   Co-Creator of [modem.show](https://wwww.modem.show) technical podcast
 
--   Co-author of IETF Drafts:
+-   Co-author of IETF Drafts on subjects ranging from IPv6 to Segment Routing. [https://datatracker.ietf.org/person/buraglio@forwardingplane.net](Full list).
     
-    [Reserving Additional IPv6 Address Prefixes for Use in Documentation](https://datatracker.ietf.org/doc/draft-horley-v6ops-expand-doc/)
-    
-    [Expanding the IPv6 Lab Use Space](https://datatracker.ietf.org/doc/draft-horley-v6ops-lab/)
-    
-    [Unintended Operational Issues With ULA](https://datatracker.ietf.org/doc/draft-ietf-v6ops-ula/)
-
-    [Selectively Applying Host Isolation to Simplify IPv6 First-hop Deployment](https://datatracker.ietf.org/doc/draft-ietf-v6ops-nd-considerations/)
-
 -   Co-Authored publication [CoreFlow: Enriching Bro security events using network traffic monitoring data](http://delaat.net/pubs/2017-j-2.pdf)
 
 -   Co-Authored ACM Publication [Machine learning-based analysis of COVID-19 pandemic impact on US research networks](https://dl.acm.org/doi/10.1145/3503954.3503958)
