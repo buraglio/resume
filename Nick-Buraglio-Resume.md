@@ -8,7 +8,7 @@
 
 #### Co-Chair IETF IPv6 Operations working group 2023 - Present
 
-- Co-chair the operational IPv6 working group for the Internet Engineering Task Force. Solicit input from network operators and users to identify operational issues with IPv6 networks, and determine solutions or workarounds to those issues. Solicit discussion and documentation of the issues and opportunities in IPv6-only operation, and of the resulting innovations. Full Charter can be found [https://datatracker.ietf.org/doc/charter-ietf-v6ops/](here).
+- Co-chair the operational IPv6 working group for the Internet Engineering Task Force. Solicit input from network operators and users to identify operational issues with IPv6 networks, and determine solutions or workarounds to those issues. Solicit discussion and documentation of the issues and opportunities in IPv6-only operation, and of the resulting innovations. Full Charter can be found [here](https://datatracker.ietf.org/doc/charter-ietf-v6ops/).
 
 #### Network Engineer, Planning and Architecture Group, Energy Sciences Network (ESnet) - 2013 - Present
 
@@ -180,7 +180,7 @@ teams.
 
 -   Co-Creator of [modem.show](https://wwww.modem.show) technical podcast
 
--   Co-author of IETF Drafts on subjects ranging from IPv6 to Segment Routing. [https://datatracker.ietf.org/person/buraglio@forwardingplane.net](Full list).
+-   Co-author of IETF Drafts on subjects ranging from IPv6 to Segment Routing. [Full list](https://datatracker.ietf.org/person/buraglio@forwardingplane.net).
     
 -   Co-Authored publication [CoreFlow: Enriching Bro security events using network traffic monitoring data](http://delaat.net/pubs/2017-j-2.pdf)
 
