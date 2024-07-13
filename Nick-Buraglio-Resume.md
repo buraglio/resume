@@ -10,7 +10,7 @@
 
 - Co-chair the operational IPv6 working group for the Internet Engineering Task Force. Solicit input from network operators and users to identify operational issues with IPv6 networks, and determine solutions or workarounds to those issues. Solicit discussion and documentation of the issues and opportunities in IPv6-only operation, and of the resulting innovations. Full Charter can be found [here](https://datatracker.ietf.org/doc/charter-ietf-v6ops/).
 
-#### Network Engineer, Planning and Architecture Group, Energy Sciences Network (ESnet) - 2013 - Present
+#### Architecture Engineer, Planning and Architecture Group, Energy Sciences Network (ESnet) - 2013 - Present
 
 - Member of a distributed team responsible for all aspects of an
 international high performance network connecting all US Department of
