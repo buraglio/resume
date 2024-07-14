@@ -142,7 +142,7 @@
 
 -   Filed U.S. patent application serial no. 18/052,614 TITLE: AUTONOMOUS TRAFFIC (SELF-DRIVING) NETWORK WITH TRAFFIC CLASSES AND PASSIVE/ACTIVE LEARNING (Nov-2022)
 
--   Founder, CTO of [ZTVI.org](https://www.ztvi.org/about/), a 100% overlay international backbone for IPv6 experimentation and education.
+-   Founder, CTO of [ZTVI.org](https://www.ztvi.org/about/), a 100% overlay international backbone for IPv6 experimentation and education
 
 -   Member of the program committee for [the TNC Conference Series for 2023-2024](https://tnc.geant.org)
 
