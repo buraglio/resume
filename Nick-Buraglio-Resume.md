@@ -149,8 +149,6 @@
 -   Consulting Information Technology Architect; Advisory Board Member
     [Albuquerque Internet Exchange](https://www.abqix.net) (ABQIX)
 
--   Experienced public speaker and technical presenter
-
--   Experienced international collaborator
+-   Experienced public speaker, technical instructor, and international collaborator
 
 -  [Additional Publications](https://scholar.google.com/scholar?scilib=1&scioq=buraglio&hl=en&as_sdt=0,14)
