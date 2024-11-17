@@ -8,21 +8,21 @@
 
 #### Co-Chair IETF IPv6 Operations working group - 2023 - Present
 
-- Co-chair the operational IPv6 working group for the Internet Engineering Task Force. Solicit input from network operators and users to identify operational issues with IPv6 networks, and determine solutions or workarounds to those issues. Solicit discussion and documentation of the issues and opportunities in IPv6-only operation, and of the resulting innovations. Full Charter can be found [here](https://datatracker.ietf.org/doc/charter-ietf-v6ops/)
+- [Co-chair](https://datatracker.ietf.org/person/Nick%20Buraglio) the [operational IPv6 working group (v6ops)](https://datatracker.ietf.org/group/v6ops/about/) for the Internet Engineering Task Force (IETF). Solicit input from network operators and users to identify operational issues with IPv6 networks, and determine solutions or workarounds to those issues. Solicit discussion and documentation of the issues and opportunities in IPv6-only operation, and of the resulting innovations. Full Charter can be found [here](https://datatracker.ietf.org/doc/charter-ietf-v6ops/)
 
 #### Architecture Engineer, Planning and Architecture Group, Energy Sciences Network (ESnet) - 2013 - Present
 
 - Member of a distributed team responsible for all aspects of an international high performance network connecting all US Department of Energy sites and other research and education networks
 
-- Member of the planning and architecture team responsible for strategy and architecture
+- Member of the planning and architecture team responsible for strategy and architecture for an international high performance network
 
-- Provide prototyping, support, assessment, and expertise for disruptive technologies
+- Provide prototyping, support, assessment, and expertise for new and disruptive technologies
 
 - Act as security strategist for internal and externally facing services
 
 - Guide framework and policy on change management process
 
-- Present to community as subject matter expert on various topics including but not limited to IPv6, SDN/SDX, performance analytics, and open perimeter security architectures
+- Present to community as a subject-matter expert on various topics including but not limited to IPv6, performance analytics, Segment Routing, and open perimeter security architectures
 
 - Manage vendor relationships
 
@@ -38,7 +38,7 @@
 
 - Specialties include FTTx, Metro networks, community fiber projects, BGP, DNS, security, network analytics, backbone and security architecture, capacity planning, performance tuning and optimization, IPv6 planning and integration
 
-- Freelance technical writing and speculation / insight on security and networking industry
+- Freelance technical writing
 
 #### Lead Network Engineer, University of Illinois, ICCN, UC2B, PeoriaNEXT - 2008 - 2013
 
@@ -70,7 +70,7 @@
 
 - Group Lead for Experimental Networks Group - XNet (2019)
 
-- Subject matter expert for IPv6-mostly initiative (2023)
+- Subject-matter expert for [IPv6-mostly](https://www.rfc-editor.org/rfc/rfc8925.html) initiative (2023)
 
 #### Network Engineer, National Center for Supercomputing Applications - 2002 - 2008, 2012 - 2013
 
@@ -103,6 +103,8 @@
 -   Illinois State University 1999 B.S. fine arts in technology,
     photography sequence. Minor in film studies
 
+-   Co-Author of [RFC 9637](https://datatracker.ietf.org/doc/rfc9637/)
+
 -   CCNA, CCDA (2000), BCNE (2010), JNCIA (2011), ITILv3 Foundation, HE
     IPv6 Sage Level
 
@@ -120,13 +122,13 @@
 -   Principal Investigator (PI) for ESnet / Berkeley Lab collaboration with
     Office of Veterans Affairs project [MVP Champion Project](https://www.energy.gov/articles/doe-and-va-team-improve-healthcare-veterans)
 
--   IPSpace AG Technical advisory board member
+-   [IPSpace AG](https://www.ipspace.net/) Technical advisory board member, webinar host
 
 -   [RouteViews Project](http://www.routeviews.org/routeviews/), Member of the Board of Advisors
 
 -   Member of the technical advisory board for the [CAIDA Global Measurement Infrastructure to Improve Internet Security project](https://www.caida.org/projects/gmi3s/)
 
--   [NSF](https://www.nsf.gov) Panel Reviewer 2013 - As needed
+-   [NSF](https://www.nsf.gov) Panel Reviewer 2013
 
 -   [NTIA](https://www.ntia.doc.gov) Grant reviewer
 
