@@ -54,7 +54,7 @@
 
 - Provide direction, technical expertise and mentorship to junior network engineers
 
-- Guest lecturer for CS security and IT networking and security courses
+- Guest lecturer for computer science department in IT networking and security courses
 
 #### SCinet - 2003, 2005-2006, 2009, 2011-2012, 2014-2016, 2018-2019, 2023
 
@@ -62,11 +62,11 @@
 
 - Team lead for SC15 SDN team
 
-- Develop, help deploy and maintain OpenFlow based, production SDN architecture for SC15 network
+- Develop, deploy and maintain OpenFlow based, production SDN architecture for SC15 network
 
-- Develop and coordinate 100G SDN QoS scheduling production testbed for SC16 network
+- Develop, deploy, and coordinate 100G SDN QoS scheduling production testbed for SC16 network
 
-- Team Lead for [production heterogenous SDN network](https://noviflow.com/sc18/) (2018)
+- Team Lead for [production heterogeneous SDN network](https://noviflow.com/sc18/) (2018)
 
 - Group Lead for Experimental Networks Group - XNet (2019)
 
@@ -96,7 +96,7 @@
 
 - Managed all vendor relationships
 
-- Additional work history available upon request
+#### Additional work history available upon request
 
 ## Education, Certifications, Awards, Contributions
 
@@ -105,11 +105,9 @@
 
 -   Co-Author of [RFC 9637](https://datatracker.ietf.org/doc/rfc9637/)
 
--   CCNA, CCDA (2000), BCNE (2010), JNCIA (2011), ITILv3 Foundation, HE
-    IPv6 Sage Level
+-   CCNA, CCDA (2000), BCNE (2010), JNCIA (2011), ITILv3 Foundation, HE IPv6 Sage Level
 
--   Recipient of Letter of Commendation from U.S. Department of Energy
-    Office of Science
+-   Recipient of Letter of Commendation from U.S. Department of Energy Office of Science
 
 -   Department of Justice top secret clearance (2008)
 
@@ -122,13 +120,13 @@
 -   Principal Investigator (PI) for ESnet / Berkeley Lab collaboration with
     Office of Veterans Affairs project [MVP Champion Project](https://www.energy.gov/articles/doe-and-va-team-improve-healthcare-veterans)
 
--   [IPSpace AG](https://www.ipspace.net/) Technical advisory board member, webinar host
+-   [IPSpace AG](https://www.ipspace.net/) Technical advisory board member, webinar host, subject matter expert
 
 -   [RouteViews Project](http://www.routeviews.org/routeviews/), Member of the Board of Advisors
 
 -   Member of the technical advisory board for the [CAIDA Global Measurement Infrastructure to Improve Internet Security project](https://www.caida.org/projects/gmi3s/)
 
--   [NSF](https://www.nsf.gov) Panel Reviewer 2013
+-   [NSF](https://www.nsf.gov) Panel Reviewer
 
 -   [NTIA](https://www.ntia.doc.gov) Grant reviewer
 
