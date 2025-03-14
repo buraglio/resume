@@ -32,6 +32,10 @@
 
 - Department of Energy agency level IPv6-only IPT Implementation team lead for [OMB M-21-07](https://www.whitehouse.gov/wp-content/uploads/2020/11/M-21-07.pdf)
 
+#### Consulting Research Architect, Office of the CIO, University of Illinois - 2025 - Present
+
+Provide expertise on IPv6, cloud strategy, and WAN architecture for the University of Illinois System on a contractual basis.
+.
 #### Network and Security Architect, CTO, ForwardingPlane, LLC - 1998 - Present
 
 - Provide consultation, design, and strategic input for data center and service provider networks
@@ -104,6 +108,8 @@
     photography sequence. Minor in film studies
 
 -   Co-Author of [RFC 9637](https://datatracker.ietf.org/doc/rfc9637/)
+
+-   Co-host of [IPv6 Buzz podcast](https://packetpushers.net/podcast/ipv6-buzz/), part of the Packet Pushers Podcast Network. 
 
 -   CCNA, CCDA (2000), BCNE (2010), JNCIA (2011), ITILv3 Foundation, HE IPv6 Sage Level
 
