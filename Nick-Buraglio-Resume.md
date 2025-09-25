@@ -12,37 +12,31 @@
 
 #### Architecture Engineer, Planning and Architecture Group, Energy Sciences Network (ESnet) - 2013 - Present
 
-- Member of a distributed team responsible for all aspects of an international high performance network connecting all US Department of Energy sites and other research and education networks
-
-- Member of the planning and architecture team responsible for strategy and architecture for an international high performance network
-
-- Provide prototyping, support, assessment, and expertise for new and disruptive technologies
-
-- Act as security strategist for internal and externally facing services
-
-- Guide framework and policy on change management process
-
-- Present to community as a subject-matter expert on various topics including but not limited to IPv6, performance analytics, Segment Routing, and open perimeter security architectures
-
-- Manage vendor relationships
-
-- Mentor students and junior engineers
-
-- Lead teams of engineers with diverse disciplines in order to accomplish large, high visibility projects
-
-- Department of Energy agency level IPv6-only IPT Implementation team lead for [OMB M-21-07](https://www.whitehouse.gov/wp-content/uploads/2020/11/M-21-07.pdf)
+- Member of the planning and architecture team responsible for strategy and architecture for an international high performance network. Responsibilities include:
+* Provide prototyping, support, assessment, and expertise for new and disruptive technologies
+* Act as security strategist for internal and externally facing services
+* Guide framework and policy on change management process
+* Present to community as a subject-matter expert on various topics including but not limited to IPv6, performance analytics, Segment Routing, and open perimeter security architectures
+* Manage vendor relationships
+* Mentor students and junior engineers
+* Lead teams of engineers with diverse disciplines in order to accomplish large, high visibility projects
+* Lead Department of Energy agency level IPv6-only implementation team lead for [OMB M-21-07](https://www.whitehouse.gov/wp-content/uploads/2020/11/M-21-07.pdf)
 
 #### Consulting Research Architect, Office of the CIO, University of Illinois - 2025 - Present
 
 Provide expertise on IPv6, cloud strategy, and WAN architecture for the University of Illinois System on a contractual basis.
-.
+
 #### Network and Security Architect, CTO, ForwardingPlane, LLC - 1998 - Present
 
-- Provide consultation, design, and strategic input for data center and service provider networks
-
-- Specialties include FTTx, Metro networks, community fiber projects, BGP, DNS, security, network analytics, backbone and security architecture, capacity planning, performance tuning and optimization, IPv6 planning and integration
-
-- Freelance technical writing
+- Provide consultation, design, and strategic input for data center and service provider networks, including:
+* Metro, middle-mile, and fiber to the X (FTTx), design, configuration, maintenance
+* Transit and interconnect
+* IX design, implementation, and support 
+* Extensive support for BGP, DNS, Automation (Ansible, Puppet), network analytics (Netflow, sFlow, long term baseline creation), capacity planning, performance tuning.
+* Backbone architecture (PNI, IX peerings, Traffic Engineering, MPLS, Segment Routing),  
+* Security architecture
+* IPv6 planning and integration
+* Freelance technical writing
 
 #### Lead Network Engineer, University of Illinois, ICCN, UC2B, PeoriaNEXT - 2008 - 2013
 
