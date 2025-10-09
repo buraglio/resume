@@ -10,7 +10,7 @@
 
 - [Co-chair](https://datatracker.ietf.org/person/Nick%20Buraglio) the [operational IPv6 working group (v6ops)](https://datatracker.ietf.org/group/v6ops/about/) for the Internet Engineering Task Force (IETF). Solicit input from network operators and users to identify operational issues with IPv6 networks, and determine solutions or workarounds to those issues. Solicit discussion and documentation of the issues and opportunities in IPv6-only operation, and of the resulting innovations. Full Charter can be found [here](https://datatracker.ietf.org/doc/charter-ietf-v6ops/)
 
-#### IT Architect, Planning and Architecture Group, Energy Sciences Network (ESnet) - 2013 - Present
+#### Planning and Architecture Group, Energy Sciences Network (ESnet) - 2013 - Present
 
 - Member of the planning and architecture team responsible for strategy and architecture for an international high performance network. Responsibilities include:
     - Provide prototyping, support, assessment, and expertise for new and disruptive technologies
@@ -25,18 +25,6 @@
 #### Consulting Research Architect, Office of the CIO, University of Illinois - 2025 - Present
 
 - Provide expertise on IPv6, cloud strategy, and WAN architecture for the University of Illinois System on a contractual basis.
-
-#### Network and Security Architect, CTO, ForwardingPlane, LLC - 1998 - Present
-
-- Provide consultation, design, and strategic input for data center and service provider networks, including:
-    - Metro, middle-mile, and fiber to the X (FTTx), design, configuration, maintenance
-    - Transit and interconnect
-    - IX design, implementation, and support 
-    - Extensive support for BGP, DNS, Automation (Ansible, Puppet), network analytics (Netflow, sFlow, long term baseline creation), capacity planning, performance tuning.
-    - Backbone architecture (PNI, IX peerings, Traffic Engineering, MPLS, Segment Routing),  
-    - Security architecture
-    - IPv6 planning and integration
-    - Freelance technical writing
 
 #### Lead Network Engineer, University of Illinois, ICCN, UC2B, PeoriaNEXT - 2008 - 2013
 
@@ -73,6 +61,18 @@
     - Authored and executed a detailed architecture expansion plan that included tripling capacity and relocation of all transit, infrastructure, UNIX, and colocation services
     - Designed, deployed, and supported extensive broadband services throughout greater central Illinois and southern Chicago areas
     - Managed all vendor relationships
+
+#### Freelance IT Architect and Technical Writer  - 1998 - Present
+
+- Provide consultation, design, and strategic input for data center and service provider networks, including:
+    - Metro, middle-mile, and fiber to the X (FTTx), design, configuration, maintenance
+    - Transit and interconnect
+    - IX design, implementation, and support 
+    - Extensive support for BGP, DNS, Automation (Ansible, Puppet), network analytics (Netflow, sFlow, long term baseline creation), capacity planning, performance tuning.
+    - Backbone architecture (PNI, IX peerings, Traffic Engineering, MPLS, Segment Routing),  
+    - Security architecture
+    - IPv6 planning and integration
+    - Freelance technical writing
 
 #### Additional work history and certifications available upon request
 
