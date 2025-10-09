@@ -1,18 +1,18 @@
 # Nick Buraglio
-***809 Indigo Dr -***
-***Savoy, IL 61874 -***
-***Ph: +1 217.841.7026 -***
+***809 Indigo Dr***
+***Savoy, IL 61874***
+***Ph: +1 217.841.7026***
 ***[nick@buraglio.com](mailto:nick@buraglio.com)***
 
 ### Experience
 
 #### Co-Chair IETF IPv6 Operations working group - 2023 - Present
 
-- [Co-chair](https://datatracker.ietf.org/person/Nick%20Buraglio) the [operational IPv6 working group (v6ops)](https://datatracker.ietf.org/group/v6ops/about/) for the Internet Engineering Task Force (IETF). Solicit input from network operators and users to identify operational issues with IPv6 networks, and determine solutions or workarounds to those issues. Solicit discussion and documentation of the issues and opportunities in IPv6-only operation, and of the resulting innovations. Full Charter can be found [here](https://datatracker.ietf.org/doc/charter-ietf-v6ops/)
+- [Co-chair](https://datatracker.ietf.org/person/Nick%20Buraglio) of the [operational IPv6 working group (v6ops)](https://datatracker.ietf.org/group/v6ops/about/) for the Internet Engineering Task Force (IETF). Responsible for soliciting input from network operators and users to identify operational issues with IPv6 networks, and determining solutions or workarounds to those issues. Additionally, facilitate discussion and documentation of the issues and opportunities in IPv6-only operation, and of the resulting innovations. Full charter can be found [here](https://datatracker.ietf.org/doc/charter-ietf-v6ops/)
 
 #### Planning and Architecture Group, Energy Sciences Network (ESnet) - 2013 - Present
 
-- Member of the planning and architecture team responsible for strategy and architecture for an international high performance network. Responsibilities include:
+- Member of the planning and architecture team responsible for strategy and architecture for an international high performance network. Responsibilities include the following:
     - Provide prototyping, support, assessment, and expertise for new and disruptive technologies
     - Act as security strategist for internal and externally facing services
     - Guide framework and policy on change management process
@@ -20,7 +20,7 @@
     - Manage vendor relationships
     - Mentor students and junior engineers
     - Lead teams of engineers with diverse disciplines in order to accomplish large, high visibility projects
-    - Lead Department of Energy agency level IPv6-only implementation team lead for [OMB M-21-07](https://www.whitehouse.gov/wp-content/uploads/2020/11/M-21-07.pdf)
+    - Lead Department of Energy agency level IPv6-only implementation team for [OMB M-21-07](https://www.whitehouse.gov/wp-content/uploads/2020/11/M-21-07.pdf)
 
 #### Consulting Research Architect, Office of the CIO, University of Illinois - 2025 - Present
 
@@ -28,11 +28,11 @@
 
 #### Lead Network Engineer, University of Illinois, ICCN, UC2B, PeoriaNEXT - 2008 - 2013
 
-- Team lead and network architect for regional optical network connecting all University of Illinois campuses, NCSA, and administrative networks to each other and external resources. Responsibilities included
+- Team lead and network architect for regional optical network connecting all University of Illinois campuses, NCSA, and administrative networks to each other and external resources. Responsibilities included the following:
     - Backup optical engineer for the InterCampus Communication Network (ICCN)
     - Team lead, strategist and architect for campus research networking initiatives including Science DMZ architecture and deployment
-    - Primary engineer, architect, and representative for PeoriaNEXT, a layer2/3 internet exchange for Peoria, IL region 
-    - Team lead and primary network architect for UC2B, a BTOP funded fiber to the premises ISP and NATOA broadband project of the year awardee
+    - Primary engineer, architect, and representative for PeoriaNEXT, a Layer 2/3 internet exchange for Peoria, IL region 
+    - Team lead and primary network architect for UC2B, a BTOP funded fiber to the premises ISP and NATOA Broadband Project of the Year award winner
     - Provide direction, technical expertise and mentorship to junior network engineers
     - Guest lecturer for computer science department in IT networking and security courses
 
@@ -48,28 +48,28 @@
 
 #### Network Engineer, National Center for Supercomputing Applications - 2002 - 2008, 2012 - 2013
 
-- Member of a small team responsible for all Layer1 -- Layer3 services
+- Member of a small team responsible for all Layer 1 through Layer 3 services
     - Network engineering liaison and advisor to incident responders and network security team, including management of high capacity Bro IDS systems
     - Collaborated with FBI on NCDIR project to assist and train field agents in network security and black hat techniques
-    - Managed network based UNIX services including DNS, DHCP, RADIUS and NetFlow collectors
+    - Managed network-based UNIX services including DNS, DHCP, RADIUS, and NetFlow collectors
     - Design and maintain network monitoring infrastructure
 
-#### Senior Network Engineer, IT Architect, Sol Tec Internet services - 2000 - 2002
+#### Senior Network Engineer and IT Architect, Sol Tec Internet Services - 2000 - 2002
 
-- Manager for all technical teams consisting of full and part time employees including system engineers, network engineers, and help desk professionals
-    - Provided technical leadership and strategy to fast growing regional internet service and early broadband provider
+- Manager for all technical teams consisting of full-time and part-time employees including system engineers, network engineers, and help desk professionals
+    - Provided technical leadership and strategy to a fast-growing regional internet service and early broadband provider
     - Authored and executed a detailed architecture expansion plan that included tripling capacity and relocation of all transit, infrastructure, UNIX, and colocation services
     - Designed, deployed, and supported extensive broadband services throughout greater central Illinois and southern Chicago areas
     - Managed all vendor relationships
 
-#### Freelance IT Architect and Technical Writer  - 1998 - Present
+#### Freelance IT Architect and Technical Writer - 1998 - Present
 
 - Provide consultation, design, and strategic input for data center and service provider networks, including:
-    - Metro, middle-mile, and fiber to the X (FTTx), design, configuration, maintenance
+    - Metro, middle-mile, and fiber-to-the-X (FTTx) design, configuration, and maintenance
     - Transit and interconnect
-    - IX design, implementation, and support 
-    - Extensive support for BGP, DNS, Automation (Ansible, Puppet), network analytics (Netflow, sFlow, long term baseline creation), capacity planning, performance tuning.
-    - Backbone architecture (PNI, IX peerings, Traffic Engineering, MPLS, Segment Routing),  
+    - IX design, implementation, and support
+    - Extensive support for BGP, DNS, automation (Ansible, Puppet), network analytics (Netflow, sFlow, long-term baseline creation), capacity planning, and performance tuning
+    - Backbone architecture (PNI, IX peerings, Traffic Engineering, MPLS, Segment Routing)
     - Security architecture
     - IPv6 planning and integration
     - Freelance technical writing
@@ -78,9 +78,9 @@
 
 ## Education, Certifications, Awards, Contributions, Publications
 
--   B.S. Illinois State University
--   Co-Author of [RFC 9637](https://datatracker.ietf.org/doc/rfc9637/)
--   Co-Author of [RFC 9872](https://www.rfc-editor.org/authors/rfc9872.html)
+-   B.S., Illinois State University
+-   Co-author of [RFC 9637](https://datatracker.ietf.org/doc/rfc9637/)
+-   Co-author of [RFC 9872](https://www.rfc-editor.org/authors/rfc9872.html)
 -   Co-host of [IPv6 Buzz podcast](https://packetpushers.net/podcast/ipv6-buzz/), part of the Packet Pushers Podcast Network. 
 -   Recipient of Letter of Commendation from U.S. Department of Energy Office of Science
 -   Department of Justice top secret clearance (2008)
@@ -95,13 +95,13 @@
 -   Member of the technical advisory board for the [CAIDA Global Measurement Infrastructure to Improve Internet Security project](https://www.caida.org/projects/gmi3s/)
 -   [NSF](https://www.nsf.gov) Panel Reviewer
 -   [NTIA](https://www.ntia.doc.gov) Grant reviewer
--   Co-author of IETF Drafts on subjects ranging from IPv6 to Segment Routing. [Full list](https://datatracker.ietf.org/person/buraglio@forwardingplane.net).
--   Co-Authored publication [CoreFlow: Enriching Bro security events using network traffic monitoring data](http://delaat.net/pubs/2017-j-2.pdf)
--   Co-Authored ACM Publication [Machine learning-based analysis of COVID-19 pandemic impact on US research networks](https://dl.acm.org/doi/10.1145/3503954.3503958)
--   Co-Authored publication [Toward live inter-domain network services on the ExoGENI testbed](https://ieeexplore.ieee.org/abstract/document/8407026)
--   Received U.S. patent application serial no. 18/052,614 TITLE: AUTONOMOUS TRAFFIC (SELF-DRIVING) NETWORK WITH TRAFFIC CLASSES AND PASSIVE/ACTIVE LEARNING (Nov-2022)
+-   Co-author of IETF drafts covering topics including IPv6, Segment Routing, and network operations. [Full list](https://datatracker.ietf.org/person/buraglio@forwardingplane.net).
+-   Co-authored publication [CoreFlow: Enriching Bro security events using network traffic monitoring data](http://delaat.net/pubs/2017-j-2.pdf)
+-   Co-authored ACM Publication [Machine learning-based analysis of COVID-19 pandemic impact on US research networks](https://dl.acm.org/doi/10.1145/3503954.3503958)
+-   Co-authored publication [Toward live inter-domain network services on the ExoGENI testbed](https://ieeexplore.ieee.org/abstract/document/8407026)
+-   Received U.S. patent application serial no. 18/052,614: "Autonomous Traffic (Self-Driving) Network with Traffic Classes and Passive/Active Learning" (November 2022)
 -   Member of the program committee for [the TNC Conference Series for 2023-2024](https://tnc.geant.org)
 -   Consulting Information Technology Architect; Advisory Board Member
     [Albuquerque Internet Exchange](https://www.abqix.net) (ABQIX)
 -   Experienced public speaker, technical instructor, and international collaborator
--  [Additional Publications](https://scholar.google.com/scholar?scilib=1&scioq=buraglio&hl=en&as_sdt=0,14)
+-   [Additional Publications](https://scholar.google.com/scholar?scilib=1&scioq=buraglio&hl=en&as_sdt=0,14)
